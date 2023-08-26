@@ -1,0 +1,150 @@
+.element {
+  position: relative;
+  display: inline-block;
+}
+
+.img-with-text {
+  max-width: 100%;
+  height: auto;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  background-color:transparent; /* Background color with transparency */
+  padding: 20px;
+  border-radius: 5px;
+  text-align: left;
+}
+ 
+  
+  
+  .abc {
+  
+    top: 800px;
+    padding:50px;
+    radius: 20px;
+    /* background-image: url('images/img2.png'); Replace with the actual image URL */
+    background-size: auto; 
+    background-position: center; /* You can adjust this as needed */
+    position: absolute;
+  }
+  
+  /* Add more styling as needed */
+
+  .xyz {
+    width: 1300px;
+    height: 774px;
+    top: 1458px;
+    /* left: 240px; */
+    border-radius: 20px;
+    /* background-image: url('images/img3.png');  */
+    background-size: auto; 
+    background-position: center; /* You can adjust this as needed */
+    position: absolute;
+  }
+  
+  /* Add more styling as needed */
+
+
+
+
+
+  .rectangle {
+    background-color: greenyellow;
+   
+    top: 2367px;
+    left: 0; /* Adjust as needed */
+ 
+    background-image: url('images/Rectangle.png'); /* Replace with the actual image URL */
+    background-size: auto; 
+    background-position: center; /* You can adjust this as needed */
+    position: absolute;
+  }
+  
+  /* Add more styling as needed */
+  
+  .smallrect {
+    
+
+    top: 2567px;
+    
+  
+  
+    background-position: center; /* You can adjust this as needed */
+  
+  }
+  
+  /* Add more styling as needed */
+
+
+
+  
+  
+  .lsimg {
+ 
+  top: 3000px;
+  left: 240px;
+
+ 
+  background-size: auto; 
+  background-position: center; /* You can adjust this as needed */
+  position: absolute;
+}
+
+/* Add more styling as needed */
+
+
+.ft {
+  width: auto;
+  /* width: 1441px; */
+  height: auto;
+  /* height: 214px; */
+  top: 3600px;
+;
+  border-radius: 7px;
+  background-color: #f0f0f0; /* Set your desired background color */
+  position: absolute;
+  overflow: hidden; /* To ensure the image doesn't exceed the container */
+}
+
+.ft footer {
+  
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+}
+
+.ft footer img {
+  max-width: 100%; /* Ensure the image stays within the footer */
+  max-height: 100%; /* Adjust as needed */
+}
+
+/* Add more styling as needed */
+
+
+
+.orange{
+  color: orangered;
+  font-size: 22px; 
+  font-weight: bold;
+  padding-right: 100px;
+}
+
+.white{
+  color:white !important;
+  background-color: rgb(255, 77, 0)!important;
+}
+
+
+.orangetext{
+  font-weight: bold;
+  color: orangered;
+  
+
+}
